@@ -44,6 +44,14 @@ My long-term dream is to become a **thoughtful, impact-driven engineer** in the 
 I believe that **ideas matter**, and with the right combination of skills, vision, and collaboration, any idea can become something impactful. That’s what I’m building toward—every day.
 
 
+## 🛠 Skills & Technologies
+
+- 💻 **Programming and Development**: PPython, Java (Beginner), C (Beginner), SQL, Flutter, Flask 
+- 🤖 **AI and Machine Learning**: Generative AI (Beginner), NLP (Natural Language Processing), Machine Learning, LLM (Beginner), Prompt Engineering 
+- 💡 **Soft Skills and Abilities**: Decision Making, Adaptability & Quick Learning, Leadership & Team Collaboration, Communication Skills
+- 🧰 **Tools and Technologies**: APIs, Data Visualization (Matplotlib, Seaborn), ChatGPT, VS Code, Android Studio, Postman, Data Analysis (Pandas, NumPy), MySQL, Spreadsheet Tools (Excel, Google Sheets)
+
+
 ## 🤝 Let’s Connect!
 
 I’m always open to:
