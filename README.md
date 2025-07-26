@@ -44,14 +44,6 @@ My long-term dream is to become a **thoughtful, impact-driven engineer** in the 
 I believe that **ideas matter**, and with the right combination of skills, vision, and collaboration, any idea can become something impactful. That’s what I’m building toward—every day.
 
 
-## 📈 Recent Activities
-
-- 🧩 Participated in **Smart India Hackathon** & **Pitchathon 24**  
-- 🧪 Building prototypes in <24 hours during hackathons  
-- 🌍 Exploring how tech can solve **accessibility and inclusion** problems  
-- 🔍 Researching AI for **collision avoidance** and **maritime safety**
-
-
 ## 🤝 Let’s Connect!
 
 I’m always open to:
@@ -65,7 +57,7 @@ Reach me at:
 
 - ✉️ Email: [nithinsathish05@gmail.com]
 - 🌐 LinkedIn: [linkedin.com/in/nithinrogers](https://www.linkedin.com/in/nithinrogers/) 
-- 💡 Portfolio: https://sites.google.com/view/nithinofficial
+- 💡 Website: [sites.google.com/view/nithinofficial](https://sites.google.com/view/nithinofficial/)
 
 
 ## ⭐ Final Note
