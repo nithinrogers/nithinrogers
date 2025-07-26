@@ -55,7 +55,7 @@ I’m always open to:
 
 Reach me at:
 
-- ✉️ Email: [nithinsathish05@gmail.com]
+- ✉️ Email: nithinsathish05@gmail.com
 - 🌐 LinkedIn: [linkedin.com/in/nithinrogers](https://www.linkedin.com/in/nithinrogers/) 
 - 💡 Website: [sites.google.com/view/nithinofficial](https://sites.google.com/view/nithinofficial/)
 
