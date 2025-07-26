@@ -2,7 +2,7 @@
 
 Welcome to my GitHub!
 
-I'm currently pursuing a **B.Tech in Artificial Intelligence and Data Science** at **St. Joseph's Institute of Technology**. I’m deeply passionate about the intersection of **Data Science**, **AI**, and their power to solve real-world challenges that impact people's lives.
+I'm currently pursuing **B Tech in Artificial Intelligence and Data Science** at **St. Joseph's Institute of Technology**. I’m deeply passionate about the intersection of **Data Science**, **AI**, and their power to solve real-world challenges that impact people's lives.
 
 ## 🌟 About Me
 
