@@ -46,7 +46,7 @@ I believe that **ideas matter**, and with the right combination of skills, visio
 
 ## 🛠 Skills & Technologies
 
-- 💻 **Programming and Development**: PPython, Java (Beginner), C (Beginner), SQL, Flutter, Flask 
+- 💻 **Programming and Development**: Python, Java (Beginner), C (Beginner), SQL, Flutter, Flask 
 - 🤖 **AI and Machine Learning**: Generative AI (Beginner), NLP (Natural Language Processing), Machine Learning, LLM (Beginner), Prompt Engineering 
 - 💡 **Soft Skills and Abilities**: Decision Making, Adaptability & Quick Learning, Leadership & Team Collaboration, Communication Skills
 - 🧰 **Tools and Technologies**: APIs, Data Visualization (Matplotlib, Seaborn), ChatGPT, VS Code, Android Studio, Postman, Data Analysis (Pandas, NumPy), MySQL, Spreadsheet Tools (Excel, Google Sheets)
