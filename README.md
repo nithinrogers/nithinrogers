@@ -29,7 +29,7 @@ I strongly believe that **technology should not only be powerful but meaningful*
 
 ## 💼 Goals & Aspirations
 
-My long-term dream is to become a **thoughtful, impact-driven engineer** in the tech industry and to contribute to cutting-edge innovation at leading organizations like **Google**. I want to be part of teams that:
+My long-term dream is to become a **thoughtful, impact-driven engineer** in the tech industry and to contribute to cutting-edge innovation at leading organizations like **Google, Amazon, Microsoft**. I want to be part of teams that:
 
 - Solve real-world problems with scalable AI solutions  
 - Make technology more accessible and ethical  
